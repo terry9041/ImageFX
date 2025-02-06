@@ -1,7 +1,7 @@
 # ImageFX
 
 ## Overview
-ImageFX is a Python-based GUI application for opening and processing BMP images. The application provides various image processing operations, including grayscale conversion, dithering, edge detection, and more. It also includes an interactive UI with sliders for fine-tuning certain effects.
+ImageFX is a Python-based Lightroom clone for opening and processing BMP images. The application provides various image processing operations, including grayscale conversion, dithering, edge detection, and more. It also includes an interactive UI with sliders for fine-tuning certain effects.
 
 ## Features
 - **Basic Operations:**
